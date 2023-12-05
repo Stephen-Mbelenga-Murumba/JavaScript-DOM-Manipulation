@@ -1,1 +1,1 @@
-Guess my number game, a player has to guess a random number between 1 - 20.
+Learning Document Object Model by building three (3) apps. Guess my number game, A modal wondow and Pig game.
